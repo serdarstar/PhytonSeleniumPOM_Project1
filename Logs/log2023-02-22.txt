@@ -1,0 +1,9 @@
+2023-02-22 10:17:20,499 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-22 10:17:20,577 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul
+2023-02-22 10:17:20,667 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 8927342
+2023-02-22 10:17:20,760 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-22 10:17:20,937 - BasePage.py:[32] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : Italy
+2023-02-22 10:17:21,010 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-22 10:17:21,084 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-22 10:17:21,156 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : lsajdfksf
+2023-02-22 10:17:22,160 - test_signup.py:[25] - [INFO] - Test Do Sign up successfully executed
