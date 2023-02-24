@@ -25,4 +25,4 @@ class RegistrationPage(BasePage):
         self.type(By.XPATH,self.city_XPATH,city)
         self.type(By.XPATH,self.username_XPATH,username)
         self.type(By.XPATH,self.password_XPATH, password)
-        #self.click(By.XPATH,self.submit_XPATH)
+        self.click(By.XPATH,self.submit_XPATH)

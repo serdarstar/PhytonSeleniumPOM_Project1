@@ -19,7 +19,7 @@ class Test_SignUp(BaseTest):
         log.logger.info("Test Do Sign up started")
         regPage = RegistrationPage(self.driver)
         regPage.fillForm(name, phoneNum, email, country, city, username, password)
-        time.sleep(1)
+        time.sleep(5)
 
 
         log.logger.info("Test Do Sign up successfully executed")
